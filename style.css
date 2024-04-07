@@ -1,12 +1,12 @@
 @font-face {
   font-family: neu;
-  src: url(/assets/64d3dd9edfb41666c35b15bf_NeueHaasDisplay-Mediu.ttf);
+  src: url(64d3dd9edfb41666c35b15bf_NeueHaasDisplay-Mediu.ttf);
 }
 
 @font-face {
   font-family: neu;
   font-weight: 100;
-  src: url(/assets/64d3dd9edfb41666c35b15c0_NeueHaasDisplay-Roman.ttf);
+  src: url(64d3dd9edfb41666c35b15c0_NeueHaasDisplay-Roman.ttf);
 }
 
 * {
